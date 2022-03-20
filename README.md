@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arun1Murugan
+- 👋 Hi, I’m Arun @Arun1Murugan
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on project
