@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun murugan @Arun1Murugan
-- 👀 I’m interested in python programming
+- 👀 I’m interested in python and java programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me twitter at arunm76157895 
