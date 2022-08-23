@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun1murugan&label=Profile%20views&color=0e75b6&style=flat" alt="arun1murugan" /> </p>
 
-- 🔭 I’m currently working as a **iOS developer at Skayraan technologiesPvt Lmt, CBE**
+- 🔭 I’m currently working as a **iOS developer at Skayraan technologies Private Limited, Coimbatore**
 
-- 🌱 I’m currently learning **web technologies**
+- 🌱 I’m currently learning **swift & swiftUI**
 
-- 💬 Ask me about **Java, JavaScript, Python**
+- 💬 Ask me about **Java, JavaScript, Python, SwiftUI**
 
 - 📫 How to reach me **arun14072001@gmail.com**
 
